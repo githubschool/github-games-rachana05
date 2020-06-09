@@ -1,0 +1,5 @@
+* @team-lead
+*.js @js-expert
+/tests @qa
+/docs @tech-doc-team
+*.md @rachana05
